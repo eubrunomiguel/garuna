@@ -33,7 +33,14 @@ MIT
 
 ## Pictures
 
+Picture taken in the Heartland Game Explo where it was awarded 2nd place in Game Design by the Jury, and 2nd place people's choice.
 ![alt tag](http://i.imgur.com/f207Plu.jpg)
+
+Creating an account.
 ![alt tag](http://i.imgur.com/gnaArZ3.jpg)
+
+Lobby.
 ![alt tag](http://i.imgur.com/TXu6l3i.png)
+
+Ingame.
 ![alt tag](http://i.imgur.com/iMadWWE.png)
