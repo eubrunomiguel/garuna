@@ -30,3 +30,10 @@ Game Programming Patterns by Robert Nystrom
 ## License
 
 MIT
+
+## Pictures
+
+![alt tag](http://i.imgur.com/f207Plu.jpg)
+![alt tag](http://i.imgur.com/gnaArZ3.jpg)
+![alt tag](http://i.imgur.com/TXu6l3i.png)
+![alt tag](http://i.imgur.com/iMadWWE.png)
