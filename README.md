@@ -33,7 +33,7 @@ MIT
 
 ## Pictures
 
-Picture taken in the Heartland Game Explo where it was awarded 2nd place in Game Design by the Jury, and 2nd place people's choice.
+Picture taken in the Heartland Game Contest where it was awarded 2nd place by the Jury, and 2nd place by the people's choice.
 ![alt tag](http://i.imgur.com/f207Plu.jpg)
 
 Creating an account.
